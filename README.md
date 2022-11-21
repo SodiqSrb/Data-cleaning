@@ -31,7 +31,7 @@ You ingested a bunch of dirty data, didn’t clean it up, and you told your comp
 
 
 <p align="center">
-Models: <br/>
+Imp data: <br/>
 <img src="https://user-images.githubusercontent.com/114579958/203100076-67a3422f-30a8-4d52-863d-815136ce14fc.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
